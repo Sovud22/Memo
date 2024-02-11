@@ -1,0 +1,10 @@
+python-binance
+gspread
+numpy
+pandas
+python-telegram-bot==13.13
+ta
+pytz
+flask
+requests
+toml
